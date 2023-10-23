@@ -1,3 +1,3 @@
 # Personal Website Management
 
-This page manages the `cmbengue-ec-intl.github.io` website.
+This page manages the `azendae-popo.github.io` website.
