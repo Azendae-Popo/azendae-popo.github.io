@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Cheikh Mbengue](/img/img1.jpg)
+![Azendae Popo](/img/Apopo_profile.jpg)
 
-**Cheikh O Mbengue, PhD**
+**Azendae M.E. Popo**
